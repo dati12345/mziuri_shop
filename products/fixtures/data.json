@@ -1,0 +1,62 @@
+[
+    {
+        "model": "products.product",
+        "pk": 1,
+        "fields": {
+            "name": "Smartphone",
+            "description": "A high-quality smartphone with a 6.5-inch display and 128GB storage.",
+            "price": "299.99",
+            "create_date": "2024-12-07T10:00:00Z",
+            "write_time": "2024-12-07T10:00:00Z",
+            "views": 150
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 2,
+        "fields": {
+            "name": "Laptop",
+            "description": "A powerful laptop with 16GB RAM and a 512GB SSD.",
+            "price": "999.99",
+            "create_date": "2024-12-07T10:30:00Z",
+            "write_time": "2024-12-07T10:30:00Z",
+            "views": 200
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 3,
+        "fields": {
+            "name": "Smartwatch",
+            "description": "A smartwatch with health tracking features and a 48-hour battery life.",
+            "price": "199.99",
+            "create_date": "2024-12-07T11:00:00Z",
+            "write_time": "2024-12-07T11:00:00Z",
+            "views": 75
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 4,
+        "fields": {
+            "name": "Tennis Racket",
+            "description": "A lightweight racket designed for intermediate-level players.",
+            "price": "89.99",
+            "create_date": "2024-12-07T11:30:00Z",
+            "write_time": "2024-12-07T11:30:00Z",
+            "views": 50
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 1,
+        "fields": {
+            "name": "Blender",
+            "description": "A high-speed blender ideal for smoothies and shakes.",
+            "price": "45.99",
+            "create_date": "2024-12-07T12:00:00Z",
+            "write_time": "2024-12-07T12:00:00Z",
+            "views": 120
+        }
+    }
+]
